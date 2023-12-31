@@ -10,7 +10,7 @@ This project was built using [Next.js](https://nextjs.org/), Tailwind CSS, and G
 First, run the development server:
 ```bash
 $ git clone https://github.com/arkikky/nextjs-starter.git
-$ cd ethsea
+$ cd nextjs-starter
 $ npm run install
 # or
 $ yarn install
