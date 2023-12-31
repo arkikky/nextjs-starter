@@ -1,15 +1,15 @@
-![Ethereum Sea Logo](https://hub.coinvestasi.com/uploads/ethsea_Thumbnails_app_Share_Link_d44538de2d.jpg)
+![Ethereum Sea Logo](https://fybcklahukimaqfaepry.supabase.co/storage/v1/object/public/Thumbnails/NextJs%20-%20Starter/nextjs_ThumbnailsApp_ShareLink.jpg)
 
-# ETH Sea
+# Next.Js Starter Template
 
-ETH South East Asia (SEA) taps into the rich talent pool within emerging markets through an online hackathon coupled with IRL workshops.
+Next.Js Starter Template, Next.js provides a variety of starter templates that can be used as a basis for your Next.js project. This starter template helps you get started quickly and includes commonly used initial configurations.
 
 ## Getting Started
 This project was built using [Next.js](https://nextjs.org/), Tailwind CSS, and GSAP to create interactive and responsive animations.
 
 First, run the development server:
 ```bash
-$ git clone https://github.com/arkikky/ethsea.git
+$ git clone https://github.com/arkikky/nextjs-starter.git
 $ cd ethsea
 $ npm run install
 # or

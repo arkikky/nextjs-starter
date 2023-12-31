@@ -29,7 +29,10 @@ const Home = (props) => {
           property="og:description"
           content={publicRuntimeConfig.siteDesc}
         />
-        <meta property="og:image" content={``} />
+        <meta
+          property="og:image"
+          content="https://fybcklahukimaqfaepry.supabase.co/storage/v1/object/public/Thumbnails/NextJs%20-%20Starter/nextjs_ThumbnailsApp_ShareLink.jpg"
+        />
 
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
@@ -42,7 +45,10 @@ const Home = (props) => {
           property="twitter:description"
           content={publicRuntimeConfig.siteDesc}
         />
-        <meta property="twitter:image" content={``} />
+        <meta
+          property="twitter:image"
+          content="https://fybcklahukimaqfaepry.supabase.co/storage/v1/object/public/Thumbnails/NextJs%20-%20Starter/nextjs_ThumbnailsApp_ShareLink.jpg"
+        />
       </Head>
 
       <main
