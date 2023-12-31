@@ -1,0 +1,15 @@
+{
+  "name": "Next.js Starter",
+  "short_name": "NextStarter",
+  "description": "Next.js provides a variety of starter templates that can be used as a basis for your Next.js project. This starter template helps you get started quickly and includes commonly used initial configurations.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [{
+    "src": "/favicon.ico",
+    "sizes": "32x32",
+    "type": "image/png",
+    "purpose": "any maskable"
+  }]
+}
