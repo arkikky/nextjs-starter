@@ -5,7 +5,7 @@
 Next.Js Starter Template, Next.js provides a variety of starter templates that can be used as a basis for your Next.js project. This starter template helps you get started quickly and includes commonly used initial configurations.
 
 ## Getting Started
-This project was built using [Next.js](https://nextjs.org/), Tailwind CSS, and GSAP to create interactive and responsive animations.
+This project was built using [Next.js](https://nextjs.org/), Tailwind CSS to create interactive and responsive animations.
 
 First, run the development server:
 ```bash
