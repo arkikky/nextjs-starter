@@ -38,4 +38,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Important
-Make sure to change the url_to_logo, https://github.com/user_name/ethsea-website.git, and edit other parts according to the actual content and needs of your project. Also, make sure to conform to best practices for your project's contributions and licensing.
+Make sure to change the url_to_logo, [https://github.com/user_name/ethsea-website.git](https://github.com/arkikky/nextjs-starter.git), and edit other parts according to the actual content and needs of your project. Also, make sure to conform to best practices for your project's contributions and licensing.
